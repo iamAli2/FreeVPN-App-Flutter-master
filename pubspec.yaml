@@ -1,5 +1,5 @@
-# By Harsh H. Rajpurohit
-name: vpn_basic_project
+# By Ariyan ALi
+name: vpn_engine
 description: Flutter Android VPN based on OpenVPN Library.
 publish_to: 'none'
 
